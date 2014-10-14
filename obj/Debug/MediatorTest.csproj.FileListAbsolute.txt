@@ -1,0 +1,7 @@
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\bin\Debug\MediatorTest.dll
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\bin\Debug\MediatorTest.pdb
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\bin\Debug\MediatorLib.dll
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\bin\Debug\MediatorLib.pdb
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\obj\Debug\MediatorTest.csprojResolveAssemblyReference.cache
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\obj\Debug\MediatorTest.dll
+c:\users\dag\documents\visual studio 2013\Projects\MediatorSolution\MediatorTest\obj\Debug\MediatorTest.pdb
